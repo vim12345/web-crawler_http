@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler_http",
+  "version": "1.0.0",
+  "description": "curl -s https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash\r nvm install\r nvm use",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vim12345/web-crawler_http.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vim12345/web-crawler_http/issues"
+  },
+  "homepage": "https://github.com/vim12345/web-crawler_http#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
